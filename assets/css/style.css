@@ -54,6 +54,18 @@ a:hover {
     text-decoration: none;
 }
 
+@font-face {
+    font-family: "Trueno";
+    src: url(../fonts/TruenoBd.otf);
+}
+
+@font-face {
+    font-family: "Bebas-Neue";
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
+
+
 /*--------------------------------------------------------------
 # PRELOADER
 --------------------------------------------------------------*/
@@ -604,7 +616,7 @@ section {
     font-weight: 700;
     line-height: 56px;
     color: #444444;
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas-Neue", sans-serif;
 }
 
 #hero h1 span {
@@ -618,7 +630,7 @@ section {
     margin: 5px 0 30px 0;
     font-size: 36px;
     font-weight: 400;
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas-Neue", sans-serif;
     letter-spacing: 1px;
     text-align: center;
 }
@@ -886,7 +898,7 @@ section {
 }
 
 .about .about-title h1 {
-    font-family: "Bebas Neue", sans-serif;
+    font-family: "Bebas-Neue", sans-serif;
     padding-top: 3rem;
     font-size: 4rem;
 }
