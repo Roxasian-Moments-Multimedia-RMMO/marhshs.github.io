@@ -161,6 +161,7 @@ section {
 }
 
 .section-title {
+    font-family: 'Trueno SemiBold';
     text-align: center;
     padding-bottom: 30px;
 }
@@ -198,6 +199,7 @@ section {
 }
 
 .section-title p {
+    font-family: 'Trueno Light';
     margin-bottom: 0;
 }
 
@@ -212,8 +214,8 @@ section {
 }
 
 .breadcrumbs h2 {
+    font-family: 'Trueno SemiBold';
     font-size: 28px;
-    font-weight: 500;
 }
 
 .breadcrumbs ol {
@@ -348,6 +350,7 @@ section {
 */
 
 .navbar {
+    font-family: 'Trueno SemiBold';
     padding: 0;
 }
 
@@ -410,6 +413,8 @@ section {
 }
 
 .navbar .dropdown ul {
+    font-family: 'Trueno Light';
+    font-weight: 600;
     display: block;
     position: absolute;
     left: 28px;
@@ -709,6 +714,7 @@ section {
 --------------------------------------------------------------*/
 
 .footer {
+    font-family: 'Trueno Light';
     text-align: center;
     background: #f6f9ff;;
     padding: 0 0 30px 0;
@@ -750,7 +756,7 @@ section {
     padding-top: 30px;
 }
   
-  .footer .credits {
+.footer .credits {
     padding-top: 10px;
     text-align: center;
     font-size: 13px;
@@ -918,6 +924,7 @@ section {
 }
 
 .message-title h3 {
+    font-weight: 600;
     color: #444444;
     text-transform: uppercase;
     font-size: 32px;
@@ -926,6 +933,8 @@ section {
 }
 
 .message-inner .text-1, .message .text-1 {
+    font-family: 'Trueno UltraLight';
+    font-weight: 600;
     font-size: 16px;
     text-align: justify;
 }
@@ -1033,6 +1042,7 @@ section.message-inner {
 }
 
 .programs .card-text {
+    font-family: 'Trueno Light';
     color: #5e5e5e;
 }
 
@@ -1088,21 +1098,23 @@ section.message-inner {
 }
 
 .inner-program-shs .program-box h3 {
+    font-family: 'Trueno SemiBold';
     font-size: 1.2em;
-    font-weight: 700;
     color: #444444;
 }
 
 .inner-program-shs .program-box p {
+    padding: 16px 0;
     text-align: justify;
 }
 
 .inner-program-shs .program-box .read-more {
+    font-family: 'Trueno SemiBold';
+    font-weight: bold;
     color: #444444;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-weight: 600;
     font-size: 16px;
     padding: 8px 20px;
     position: relative;
@@ -1242,6 +1254,7 @@ section.message-inner {
 }
 
 .contact .info-box p {
+    font-family: 'Trueno Light';
     padding: 0;
     line-height: 24px;
     font-size: 14px;
