@@ -1106,6 +1106,8 @@ section.message-inner {
 }
 
 .inner-program-shs .program-box p {
+    font-family: 'Trueno Light';
+    font-weight: 500;
     padding: 16px 0;
     text-align: justify;
 }
