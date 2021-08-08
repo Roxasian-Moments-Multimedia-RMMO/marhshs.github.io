@@ -54,8 +54,6 @@ a:hover {
     text-decoration: none;
 }
 
-@import url('http://fonts.cdnfonts.com/css/trueno');
-
 
 
 /*--------------------------------------------------------------
@@ -1044,6 +1042,7 @@ section.message-inner {
 }
 
 .programs .card-text {
+    text-align: justify;
     font-family: 'Trueno Light';
     color: #5e5e5e;
 }
@@ -1077,6 +1076,10 @@ section.message-inner {
 --------------------------------------------------------------*/
 .inner-program-shs {
     padding: 100px 0 ;
+}
+
+.inner-program-shs .section-title p {
+    text-align: justify;
 }
 
 .inner-program-shs .program-box {
